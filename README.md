@@ -9,3 +9,7 @@
 #注意
 nodejs目录里面是nodejs文件
 其余为vue3文件及相关配置
+
+前端界面
+
+![图片](https://github.com/hmkafei/Chatroom/assets/160700080/dc7d39dc-1478-45a2-957d-ab23e7597ed7)
